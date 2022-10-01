@@ -21,4 +21,5 @@ dependencies:
   - python=3.9
   - seaborn
   - openpyxl
+  - xlsxwriter
   
